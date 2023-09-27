@@ -1,0 +1,2 @@
+# basiccode
+The best basic
